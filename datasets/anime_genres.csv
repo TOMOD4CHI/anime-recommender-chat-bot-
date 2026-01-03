@@ -1,0 +1,79 @@
+genre_id,genre_name,show_counts
+1,Action,5627
+2,Adventure,4409
+3,Racing,276
+4,Comedy,7744
+5,Avant Garde,1056
+6,Mythology,639
+7,Mystery,995
+8,Drama,3082
+9,Ecchi,820
+10,Fantasy,6006
+11,Strategy Game,338
+12,Hentai,1588
+13,Historical,1720
+14,Horror,578
+15,Kids,6903
+17,Martial Arts,707
+18,Mecha,1313
+19,Music,5056
+20,Parody,803
+21,Samurai,251
+22,Romance,2185
+23,School,2223
+24,Sci-Fi,3444
+25,Shoujo,518
+26,Girls Love,121
+27,Shounen,2125
+28,Boys Love,194
+29,Space,670
+30,Sports,819
+31,Super Power,719
+32,Vampire,178
+35,Harem,482
+36,Slice of Life,1583
+37,Supernatural,1554
+38,Military,739
+39,Detective,311
+40,Psychological,452
+41,Suspense,454
+42,Seinen,1092
+43,Josei,159
+46,Award Winning,258
+47,Gourmet,229
+48,Workplace,229
+49,Erotica,82
+50,Adult Cast,727
+51,Anthropomorphic,1242
+52,CGDCT,260
+53,Childcare,77
+54,Combat Sports,96
+55,Delinquents,78
+56,Educational,329
+57,Gag Humor,285
+58,Gore,269
+59,High Stakes Game,56
+60,Idols (Female),361
+61,Idols (Male),171
+62,Isekai,445
+63,Iyashikei,186
+64,Love Polygon,113
+65,Magical Sex Shift,32
+66,Mahou Shoujo,355
+67,Medical,56
+68,Organized Crime,108
+69,Otaku Culture,109
+70,Performing Arts,150
+71,Pets,139
+72,Reincarnation,156
+73,Reverse Harem,78
+74,Love Status Quo,46
+75,Showbiz,51
+76,Survival,76
+77,Team Sports,326
+78,Time Travel,159
+79,Video Game,173
+80,Visual Arts,93
+81,Crossdressing,61
+82,Urban Fantasy,208
+83,Villainess,28
