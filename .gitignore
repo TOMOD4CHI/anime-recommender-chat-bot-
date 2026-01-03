@@ -1,2 +1,3 @@
-datasets/
+datasets/anime_genres.csv
+datasets/animes.csv
 scraper.py
