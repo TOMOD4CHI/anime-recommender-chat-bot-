@@ -1,3 +1,5 @@
 datasets/anime_genres.csv
 datasets/animes.csv
+datasets/ratings.npy
 scraper.py
+venv/
