@@ -1,5 +1,7 @@
 datasets/anime_genres.csv
 datasets/animes.csv
+datasets/animes_with_synopsis.csv
 datasets/ratings.npy
 scraper.py
 venv/
+description.md
