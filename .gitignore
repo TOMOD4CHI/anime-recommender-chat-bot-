@@ -1,7 +1,13 @@
 datasets/anime_genres.csv
 datasets/animes.csv
 datasets/animes_with_synopsis.csv
+datasets/animes_with_synopsis_cleaned.csv
 datasets/ratings.npy
 scraper.py
 venv/
 description.md
+eda_helpers.py
+eda_enhancements.py
+advanced_eda.ipynb
+extra/
+notebooks/__pycache__/
